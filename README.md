@@ -7,4 +7,4 @@ Install:
 1. Python 
 2. NumPy
 3. Pygame
-4. PyOpenGl
+4. PyOpenGL
