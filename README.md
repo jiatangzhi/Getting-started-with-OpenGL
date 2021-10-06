@@ -3,4 +3,8 @@
 ### ECM3423: Computer Graphics 
 Workshop 1 
 
-//Install Python, NumPy, Pygame and PyOpenGl
+Install:
+1. Python 
+2. NumPy
+3. Pygame
+4. PyOpenGl
